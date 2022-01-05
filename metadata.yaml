@@ -2,6 +2,8 @@ homepage: "https://digitalmarketing.engineer/"
 # documentation: ""
 versions:
   # Latest version
+  - sha: 542934324faed2398b4e2454c8bde818abed5c2b
+    changeNotes: Update description.
+  # Older versions
   - sha: d084f616312b17e5e0bd81a598b3fb943597bc06
     changeNotes: Initial release.
-  # Older versions
